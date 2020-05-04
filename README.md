@@ -4,9 +4,9 @@ Guias e boas práticas de programação para um melhor desenvolvimento de softwa
 
 ## Guias
 
-Revisão de código
-Estilo de código
-Gerenciamento de projeto
+- Revisão de código
+- Estilo de código
+- Gerenciamento de projeto
 
 ## Contribuindo
 
